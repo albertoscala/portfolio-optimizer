@@ -1,0 +1,8 @@
+# Ignore all folders in python
+python/*/
+
+# Ignore all the .cfg files in python
+python/*.cfg
+
+# Ignore symlinked folder in python
+python/lib64
